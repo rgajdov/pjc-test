@@ -1,0 +1,5 @@
+/target/
+/.idea/
+/out/
+/DesktopClient.iml
+/deploy/
